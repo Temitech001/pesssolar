@@ -17,15 +17,24 @@ const Stats = () => {
         </h2>
         <ul className=" font-openSans text-xl space-y-5 lg:space-y-0 leading-8 lg:leading-[56px]">
           <li className="flex lg:items-center items-start">
-            <img className="lg:w-9 mt-2 w-6 mr-6" src={tick} /> We Provide the
-            best Service Solution.
+            <img
+              className="lg:w-9 mt-2 w-6 mr-6"
+              src={tick}
+            />{' '}
+            We Provide the best Service Solution.
           </li>
           <li className="flex lg:items-center items-start">
-            <img className="lg:w-9 mt-2 w-6 mr-6" src={tick} />
+            <img
+              className="lg:w-9 mt-2 w-6 mr-6"
+              src={tick}
+            />
             Proper manual and guide for all Service.
           </li>
           <li className="flex lg:items-center items-start">
-            <img className="lg:w-9 mt-2 w-6 mr-6" src={tick} />
+            <img
+              className="lg:w-9 mt-2 w-6 mr-6"
+              src={tick}
+            />
             Professional service for all project
           </li>
         </ul>
