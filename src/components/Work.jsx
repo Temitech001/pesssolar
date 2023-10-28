@@ -9,7 +9,7 @@ const Work = () => {
     <div
       id="Work"
       name="work"
-      className="w-full md:h-screen text-gray-300 bg-white "
+      className="w-full md:h-screen text-black bg-white "
     >
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className=" flex flex-col  items-center">
