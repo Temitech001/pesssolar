@@ -16,7 +16,7 @@ const Work = () => {
           <p className="text-4xl  font-bold inline border-b-4 text-black border-black">
             Work
           </p>
-          <p className="text-black py-6">Check out some of my recent work</p>
+          <p className="text-black py-6">Check out some of our recent work</p>
         </div>
 
         {/* container for projects */}
@@ -34,7 +34,8 @@ const Work = () => {
               className="group container  
               flex justify-center text-center items-center mx-auto content-div "
             >
-              <img loading='lazy'
+              <img
+                loading="lazy"
                 src={item.image}
                 alt="ime"
               />
