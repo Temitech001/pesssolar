@@ -4,6 +4,7 @@ const Stats = () => {
     <div className="flex justify-center flex-col  lg:flex-row items-center gap-16 lg:gap-32 py-10 mx-10 lg:mx-32">
       <div className="w-[100%]">
         <img
+          loading="lazy"
           className=" lg:w-[100%] w-[100%] object-cover rounded"
           src="https://res.cloudinary.com/dutvrzezk/image/upload/v1698414943/js2_pgqe2t.jpg"
           alt="man"
@@ -18,6 +19,7 @@ const Stats = () => {
         <ul className=" font-openSans text-xl space-y-5 lg:space-y-0 leading-8 lg:leading-[56px]">
           <li className="flex lg:items-center items-start">
             <img
+              loading="lazy"
               className="lg:w-9 mt-2 w-6 mr-6"
               src={tick}
             />{' '}
@@ -25,6 +27,7 @@ const Stats = () => {
           </li>
           <li className="flex lg:items-center items-start">
             <img
+              loading="lazy"
               className="lg:w-9 mt-2 w-6 mr-6"
               src={tick}
             />
@@ -32,6 +35,7 @@ const Stats = () => {
           </li>
           <li className="flex lg:items-center items-start">
             <img
+              loading="lazy"
               className="lg:w-9 mt-2 w-6 mr-6"
               src={tick}
             />

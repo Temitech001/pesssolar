@@ -28,6 +28,7 @@ const Blog = () => {
                 key={card.id}
               >
                 <img
+                  loading="lazy"
                   className="w-[200px]"
                   src={card.mainImage}
                 />
@@ -42,6 +43,7 @@ const Blog = () => {
                 </div>
                 <div className="flex items-center gap-5 ">
                   <img
+                    loading="lazy"
                     className="w-8"
                     src={card.imgLink}
                   />
@@ -65,6 +67,7 @@ const Blog = () => {
                 key={card.id}
               >
                 <img
+                  loading="lazy"
                   className="w-[200px]"
                   src={card.mainImage}
                 />
@@ -79,6 +82,7 @@ const Blog = () => {
                 </div>
                 <div className="flex items-center gap-5 ">
                   <img
+                    loading="lazy"
                     className="w-8"
                     src={card.imgLink}
                   />

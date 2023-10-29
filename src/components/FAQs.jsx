@@ -3,6 +3,7 @@ const FAQs = () => {
     <div className="flex flex-col px-10 lg:px-32 py-28 ">
       <div>
         <img
+          loading="lazy"
           className=" w-[1000px] h-[400px] "
           src="https://res.cloudinary.com/dutvrzezk/image/upload/v1696377031/pexels-ndel-mea-9875684_tgxfmy.jpg"
         />
@@ -18,6 +19,7 @@ const FAQs = () => {
             <span className="  flex items-center justify-between font-openSans mb-4 text-lg lg:text-xl">
               Enjoy the benefits of clean, reliable, and sustainable energy.
               <img
+                loading="lazy"
                 className="w-7 mb-5 lg:mb-0 ml-5 lg:ml-0"
                 src="https://res.cloudinary.com/dhvwthnzq/image/upload/v1692979789/boldo/Group_210_1_d7bry6.png"
               />
@@ -28,6 +30,7 @@ const FAQs = () => {
             <span className=" flex items-center justify-between font-openSans mb-5 text-lg lg:text-xl">
               Professional service for all project
               <img
+                loading="lazy"
                 className="w-7 mb-5 lg:mb-0 ml-5 lg:ml-0"
                 src="https://res.cloudinary.com/dhvwthnzq/image/upload/v1692979789/boldo/Group_210_1_d7bry6.png"
               />

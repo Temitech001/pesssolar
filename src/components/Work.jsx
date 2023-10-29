@@ -34,7 +34,7 @@ const Work = () => {
               className="group container  
               flex justify-center text-center items-center mx-auto content-div "
             >
-              <img
+              <img loading='lazy'
                 src={item.image}
                 alt="ime"
               />

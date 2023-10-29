@@ -3,7 +3,7 @@ export const services = [
     id: 1,
     imgLink:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1698448448/biel-morro-HCha-UHkIg8-unsplash_xtrbcm.jpg',
-    title: 'Cool feature title',
+    title: 'Consulting Service',
     description: [
       ' Project management .',
       'Site Assessment',
@@ -16,10 +16,10 @@ export const services = [
     id: 2,
     imgLink:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1698448448/american-public-power-association-eIBTh5DXW9w-unsplash_v3fwqa.jpg',
-    title: 'Even cooler feature',
+    title: 'Support',
     description: [
       'Off-Grid Solution',
-      ' Renewable Energy Solutions',
+      'Energy Solutions ',
       'Repairs',
       'Customer Support',
       'Regulatory Compliance',
@@ -29,9 +29,9 @@ export const services = [
     id: 3,
     imgLink:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1698448448/jason-blackeye-pJjj-XVA7Hg-unsplash_chyrqo.jpg',
-    title: 'Cool feature title',
+    title: 'Industrial Service',
     description: [
-      'Energy Solutions .',
+      'Renewable Energy Solutions .',
       '  Solar Maintenance',
       'Component Replacement',
       'Energy Efficiency Consulting',
@@ -205,7 +205,7 @@ export const blogPost3 = [
   {
     id: 2,
 
-    description: 'In partner Solantra Group',
+    description: '',
     mainImage:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1698485974/P1_eep8jv.jpg',
   },
