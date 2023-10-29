@@ -50,7 +50,6 @@ const Login = () => {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
               />
-
               <input
                 className="mb-4 border-2 flex justify-center items-center  p-2 rounded-full  w-[100%] max-w-[200px] px-[auto]"
                 type="password"
@@ -59,7 +58,6 @@ const Login = () => {
                 onChange={(e) => setPassword(e.target.value)}
               />
             </div>
-
             <div className="items-center gap-3 flex flex-col justify-center ">
               <button className="bg-green-500 text-white px-[70px] py-[8px] rounded-full">
                 Submit
