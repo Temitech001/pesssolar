@@ -65,9 +65,11 @@ const Login = () => {
                 Submit
               </button>
               {error && <p className="text-red-500">{error}</p>}
-              <a>
-                <h1 className="text-sm lg:mb-2  mb-6">Forget password</h1>
-              </a>
+              <button>
+                <h1 className="text-sm lg:mb-2 font-bold  mb-6">
+                  Forget password?
+                </h1>
+              </button>
             </div>
           </form>
         </div>
