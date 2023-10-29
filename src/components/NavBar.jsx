@@ -56,7 +56,7 @@ const NavBar = () => {
         <div
           className={` relative ${
             navbar ? 'flex' : 'hidden'
-          } text-white border-indigo-800 items-start bg-[#68D391]  md:w-full w-screen px-10 py-10 
+          } text-white border-indigo-800 items-start bg-[#68D391]    md:w-full w-screen px-10 py-10 
             md:py-0 md:px-0 p-5 md:bg-transparent absolute z-0 top-[-01rem] right-[-rem]  left-[-4rem] md:static flex-col md:flex-row  
             md:flex justify-center text-base md:items-center font-openSans gap-10`}
         >
