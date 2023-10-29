@@ -13,8 +13,11 @@ const Ourservices = () => {
           Our Services
         </p>
         <p className="font-manrope lg:text-[28px] text-[18px] leading-7 lg:text-5xl  lg:leading-[72px] px-[23px] lg:px-40 text-center">
-          <strong> Empowering Your Energy Future:</strong> Our Solar Panel
-          Engineering Expertise.
+          <strong className="text-[16px]">
+            {' '}
+            Empowering Your Energy Future:
+          </strong>{' '}
+          Our Solar Panel Engineering Expertise.
         </p>
       </div>
       <motion.div
