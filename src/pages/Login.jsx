@@ -61,24 +61,7 @@ const Login = () => {
                 onChange={(e) => setPassword(e.target.value)}
               />
             </div>
-            <div className="flex flex-col items-center justify-center gap-1">
-              <input
-                className="mb-4 border-2 flex justify-center items-center p-2 rounded-full  w-[100%] max-w-[200px] "
-                type="email"
-                name="email"
-                placeholder="Admin/staff"
-                value={email}
-                onChange={(e) => setEmail(e.target.value)}
-              />
 
-              <input
-                className="mb-4 border-2 flex justify-center items-center  p-2 rounded-full  w-[100%] max-w-[200px] px-[auto]"
-                type="password"
-                placeholder="Password"
-                value={password}
-                onChange={(e) => setPassword(e.target.value)}
-              />
-            </div>
             <div className="items-center gap-3 flex flex-col justify-center ">
               <button className="bg-green-500 px-[70px] py-[8px] rounded-full">
                 Submit
