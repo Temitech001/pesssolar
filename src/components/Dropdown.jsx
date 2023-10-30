@@ -41,7 +41,7 @@ const Dropdown = () => {
             />
 
             <input
-              className="mb-4 border-2 flex justify-center items-center  p-2 rounded-full  w-[100%] max-w-[200px] px-[auto]"
+              className="mb-4 border-2 text-black flex justify-center items-center  p-2 rounded-full  w-[100%] max-w-[200px] px-[auto]"
               type="password"
               placeholder="Password"
               value={password}
@@ -53,7 +53,10 @@ const Dropdown = () => {
               Submit
             </button>
             {error && <p className="text-red-500">{error}</p>}
-            <h1 className="text-sm text-black  mb-6">Forget password</h1>
+            <button>
+              {' '}
+              <h1 className="text-sm text-black  mb-6">Forget password</h1>
+            </button>
           </div>
         </form>
       </div>
