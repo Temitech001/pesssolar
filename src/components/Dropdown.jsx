@@ -32,7 +32,7 @@ const Dropdown = () => {
         >
           <div className="flex flex-col items-center justify-center gap-1">
             <input
-              className="mb-4 border-2 flex justify-center items-center p-2 rounded-full  w-[100%] max-w-[200px] "
+              className="mb-4 border-2 flex justify-center text-black items-center p-2 rounded-full  w-[100%] max-w-[200px] "
               type="email"
               name="email"
               placeholder="Admin/staff username"
