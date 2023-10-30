@@ -35,7 +35,7 @@ const Growth = () => {
               {' '}
               At influxsolarinc, we're passionate about harnessing the power of
               the sun to create a sustainable and cleaner future for generations
-              to come our company is dedicated to providing top-quality solar
+              to come. our company is dedicated to providing top-quality solar
               energy solutions to homes, businesses, and communities across the
               world.
             </h1>
