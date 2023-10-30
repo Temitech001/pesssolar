@@ -8,7 +8,10 @@ const Growth = () => {
       id="AboutUs"
       className="flex justify-center flex-col lg:flex-row items-center mt-14 lg:mt-0 gap-32 py-10  mx-10 lg:mx-32"
     >
-      <div className="w-[100%] " id="AboutUs">
+      <div
+        className="w-[100%] "
+        id="AboutUs"
+      >
         <h1 className=" mt-5 text-4xl font-bold text-center mb-9">About</h1>{' '}
         <div className="lg:w-[80%] flex flex-col mx-auto my-10 gap-10 items-center  lg:flex-row lg:justify-center">
           <div className="lg:w-[100%] ">
