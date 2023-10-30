@@ -8,7 +8,7 @@ const Dropdown = () => {
   const history = useNavigate();
   function handleSubmit(e) {
     e.preventDefault();
-    if (email === 'Influxsolarinc@gmail.com' && password === 'baldman') {
+    if (email === 'Influxsolarinc@gmail.com' && password === 'baldman111') {
       // Successful login, navigate to the home page
       history('/home');
       setEmail('');
