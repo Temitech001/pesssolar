@@ -223,7 +223,7 @@ const data = [
     id: 1,
 
     image:
-      'https://res.cloudinary.com/dutvrzezk/image/upload/v1696377035/pexels-pibay-159160_t7sepa.jpg',
+      'https://res.cloudinary.com/dutvrzezk/image/upload/v1698768502/New1_fnh5eb.jpg',
   },
   {
     id: 2,
@@ -247,13 +247,13 @@ const data = [
     id: 5,
 
     image:
-      'https://res.cloudinary.com/dutvrzezk/image/upload/v1696377035/pexels-pibay-159160_t7sepa.jpg',
+      'https://res.cloudinary.com/dutvrzezk/image/upload/v1698768502/Sol1_arb7mg.jpg',
   },
   {
     id: 6,
 
     image:
-      'https://res.cloudinary.com/dutvrzezk/image/upload/v1696377079/pexels-kindel-media-9875441_xysxic.jpg',
+      'https://res.cloudinary.com/dutvrzezk/image/upload/v1698768985/Cit_bgmsqj.jpg',
   },
 ];
 export default data;
