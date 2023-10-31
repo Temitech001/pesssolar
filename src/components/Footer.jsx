@@ -8,8 +8,16 @@ const Footer = () => {
             src="https://res.cloudinary.com/dhvwthnzq/image/upload/v1692996001/boldo/Logo_4_xym5el.png"
           />
           <p className="">
-            Social media validation business model canvas graphical user
-            interface launch party creative facebook iPad twitter.
+            Your trusted partner for solar panel solutions. We're committed to
+            providing sustainable and efficient energy options for your home or
+            business.
+          </p>
+          <p className="text">
+            <strong className="text-black"> Phone:</strong>
+            <span> 214-814-9064</span>
+            <br />
+            <strong className="text-black font-bold">Email:</strong>
+            <span>Influxsolarinc@gmail.com</span>
           </p>
         </div>
         <p>All rights reserved.</p>
