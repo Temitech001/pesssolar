@@ -198,7 +198,7 @@ export const blogPost3 = [
     id: 1,
 
     name: '',
-    description: 'In partner Solantra Group',
+    description: 'In partner with Solantra Group',
     mainImage:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1698485974/p2_w7ftfm.jpg',
   },
