@@ -18,7 +18,7 @@ const Growth = () => {
             {' '}
             <img
               className="lg:w-[500px] md:w-[300px]"
-              src="https://res.cloudinary.com/dutvrzezk/image/upload/v1704386312/Cameron_uqyoof.jpg"
+              src="https://res.cloudinary.com/dutvrzezk/image/upload/v1699753852/New_mike_zxyl37.jpg"
               alt="Michael"
             />
           </div>
