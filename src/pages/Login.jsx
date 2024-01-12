@@ -8,7 +8,7 @@ const Login = () => {
   const history = useNavigate();
   function handleSubmit(e) {
     e.preventDefault();
-    if (email === 'Influxsolarinc@gmail.com' && password === 'influxinc0001!') {
+    if (email === 'Influxsolarinc@gmail.com' && password === 'influxinc00010!') {
       // Successful login, navigate to the home page
       history('/home');
       setEmail('');
