@@ -14,10 +14,13 @@ const Footer = () => {
           </p>
           <p className="text">
             <strong className="text-black"> Phone:</strong>
-            <span> 214-814-9064</span>
+            <span> 631-660-8055</span>
             <br />
             <strong className="text-black font-bold">Email:</strong>
             <span>Influxsolarinc@gmail.com</span>
+            <br />
+            <strong className="text-black font-bold">Email:</strong>
+            <span>Influxsolarinc@gmail.com</span> 
           </p>
         </div>
         <p>All rights reserved.</p>

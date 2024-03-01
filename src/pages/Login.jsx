@@ -14,7 +14,7 @@ const Login = () => {
       setEmail('');
       setPassword('');
       setError('');
-    } else {
+    } else {- 
       setError('Incorrect email or password');
     }
   }
