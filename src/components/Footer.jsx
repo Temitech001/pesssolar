@@ -20,7 +20,7 @@ const Footer = () => {
             <span>Influxsolarinc@gmail.com</span>
             <br />
             <strong className="text-black font-bold">Email:</strong>
-            <span>Influxsolarinc@gmail.com</span> 
+        
           </p>
         </div>
         <p>All rights reserved.</p>
